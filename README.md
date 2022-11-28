@@ -44,11 +44,12 @@ Existing U13 accounts will be given 7 days to register the email address of thei
 1. API parental token [https://github.com/omegaup/omegaup/pull/6743]
 2. Cookie Consent Modal [https://github.com/omegaup/omegaup/pull/6634]
 3. API Changes U13 Can't perfom [https://github.com/omegaup/omegaup/pull/6718]
-4. Arenav2 pagination [https://github.com/omegaup/omegaup/pull/6546]
-5. Added New Fields to Users Table. [https://github.com/omegaup/omegaup/pull/6670]
 6. API user can delete their account [https://github.com/omegaup/omegaup/pull/6646]
 7. Created a birthdate picker and designed the sign up form [https://github.com/omegaup/omegaup/pull/6695]
 8. Create an entrypoint to verify the parent token. [https://github.com/omegaup/omegaup/pull/6773]
+4. Arenav2 pagination [https://github.com/omegaup/omegaup/pull/6546]
+5. Added New Fields to Users Table. [https://github.com/omegaup/omegaup/pull/6670]
+
 
 #### I have mentioned only the PRs with long commits.
 
